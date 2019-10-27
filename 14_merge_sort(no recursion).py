@@ -1,9 +1,7 @@
 # coding:utf-8
 def merge_sort(alist):
     """非递归方法实现归并排序"""
-
-
-
+    pass
 
 
 if __name__ == "__main__":
